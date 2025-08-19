@@ -1,0 +1,5 @@
+เข้าใจมากขึ้นจากการดึงค่า object ด้วยการ destructuring 
+รู้จัก default value และการใช้ destructuring กับฟังก์ชัน
+ฝึกเขียนฟังก์ชัน shallowEqual เพื่อตรวจ object ที่มีค่าเหมือนกันระดับตื้น
+ได้เรียนรู้ความแตกต่างระหว่าง reference equality กับ value equality
+เห็นข้อจำกัดของ shallow check ว่าใช้กับ object ที่ซ้อนไม่ได้ 
