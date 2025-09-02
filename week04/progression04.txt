@@ -1,0 +1,3 @@
+ฝึก Functional Programming กับ Array Methods ฝึก Higher-Order Function 
+ลองฝึก methods อื่นๆ เขียน closure ฝึก rest operator
+ทำให้เข้าใจการเขียน Functional Style มากขึ้น การส่งฟังก์ชันเป็น argument และเลือกใช้ array methods ที่เหมาะสม
