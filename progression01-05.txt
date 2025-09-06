@@ -1,0 +1,25 @@
+week01
+ผมได้ฝึกใช้งาน Array Methods ของ JavaScript พร้อมกับทำความเข้าใจความแตกต่างระหว่าง immutable methods ที่ไม่แก้ค่าเดิมกับ mutable methods 
+ที่เปลี่ยนแปลง array ต้นฉบับ การฝึกตรงนี้ทำให้ผมรู้จักเลือกใช้ method ที่ตรงกับโจทย์มากขึ้น
+
+week02
+ผมได้เรียนรู้การดึงค่าจาก object ด้วย destructuring การใช้ default value 
+และการนำ destructuring มาใช้เพื่อเขียนโค้ดให้สั้นและอ่านง่ายขึ้น 
+ยังฝึกเขียนฟังก์ชัน shallowEqual เพื่อตรวจสอบ object ที่มีค่าเหมือนกันในระดับตื้น 
+ซึ่งทำให้เห็นความแตกต่างระหว่าง reference equality กับ value equality 
+และยังเห็นข้อจำกัดของ shallow check ที่ไม่สามารถใช้ได้กับ object ที่ซ้อนกันหลายชั้น
+
+week03
+ผมได้ฝึกการจัดการ Array of Objects ที่ซับซ้อนขึ้น ใช้ array methods กับ object ที่มีข้อมูลซ้อน 
+การฝึกครั้งนี้ทำให้เข้าใจวิธีใช้ destructuring เพื่อเขียนโค้ดให้กระชับและอ่านง่ายขึ้น 
+ยังเห็นการจัดการข้อมูลที่มีโครงสร้างซับซ้อนแบบเดียวกับที่มักเจอใน API 
+
+week04
+ผมได้เริ่มต้นฝึก Functional Programming นำ array methods มาใช้กับ Higher-Order Functions และฝึกใช้ methods อื่นๆด้วย 
+ยังได้ฝึกเขียน closure และการใช้ rest operator ซึ่งช่วยให้เข้าใจการเขียนโค้ดแบบ functional มากขึ้น 
+ทั้งเป็น argument และการเลือก method ที่เหมาะสมกับปัญหาที่ต้องการแก้
+
+week05
+ผมได้เรียนรู้การใช้ Object.entries() เพื่อแปลง object ให้เป็น array ของ key–value pairs 
+ซึ่งช่วยให้สามารถนำข้อมูลจาก object ไปคิดร่วมกับ array methods กับใช้ Array.isArray() เพื่อเช็คว่าเป็น array จริงหรือเปล่า 
+ยังได้ฝึกสร้าง JavaScript Modules แยกโค้ดออกเป็นไฟล์ย่อยๆ แล้ว import ไปใน main.js ทำให้โค้ดอ่านง่าย จัดการได้ดี และสามารถนำกลับมาใช้ซ้ำได้ตลอด
